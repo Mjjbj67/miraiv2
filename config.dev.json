@@ -1,18 +1,18 @@
 {
-    "language": "en",
-    "keyActive": "",
+    "language": "fr",
+    "keyActive": "-",
     "DeveloperMode": false,
     "autoCreateDB": true,
     "allowInbox": true,
     "autoClean": false,
-    "commandDisabled": [],
-    "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
-    "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
-    "ADMINBOT": [
+    "commandDisabled": ["désactivé bot"],
+    "eventDisabled": ["activé bot"],
+    "EMAIL": "kamgasobkillianberyl@gmail.com",
+    "PASSWORD": "killian 6",
+    "OTPKEY": "help",
+    "BOTNAME": "HÏSØKÅ",
+    "PREFIX": "€",
+    "ADMINBOT": [https://www.facebook.com/profile.php?id=100091289477923&mibextid=ZbWKwL
         "USERID1",
         "USERID2"
     ],
